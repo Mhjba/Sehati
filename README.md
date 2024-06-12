@@ -56,7 +56,11 @@ One of the biggest technical challenges I faced in the "Sehati" project was desi
         python3 main.py
 
 ## Getting Started:
-[![page1](https://github.com/Mhjba/Sehati/assets/132380677/9061efdc-78e0-4a15-b8df-8be0c64d7012)]
+![page1](https://github.com/Mhjba/Sehati/assets/132380677/9061efdc-78e0-4a15-b8df-8be0c64d7012)
+
+![page2](https://github.com/Mhjba/Sehati/assets/132380677/5489fd1f-9ead-4a15-9e19-befc679c0013)
+
+![page3](https://github.com/Mhjba/Sehati/assets/132380677/9ee2db24-6fcd-497c-aca1-fe4b9557cc68)
 
 ## Authors:
 
